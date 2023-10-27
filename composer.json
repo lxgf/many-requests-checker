@@ -1,0 +1,17 @@
+{
+    "name": "dimas/many-requests-checker",
+    "autoload": {
+        "psr-4": {
+            "Dimas\\ManyRequestsChecker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lxgf"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+        "guzzlehttp/promises": "^2.0"
+    }
+}
